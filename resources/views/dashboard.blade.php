@@ -605,10 +605,9 @@
                                     <div class="row">
                                         <div class="absoluteMap">
                                             <button class="btn btn-success btn-sm4">Online</button>
-                                            
                                         </div>
                                             <div id="totaldevice" class="text-dash-onlineall">/0</div>
-                                            <div id="restdevice" class="text-dash-online">0 </div> 
+                                            <div id="restdevice" class="text-dash-online">0</div> 
                                     </div>
 
                                 </div>
